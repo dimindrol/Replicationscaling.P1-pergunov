@@ -29,7 +29,7 @@ server_id = 1
 log_bin = mysql-bin
 ```
 5.Использовали команду SHOW MASTER STATUS;  
-![image](https://github.com/dimindrol/Replicationscaling.P1-pergunov/assets/103885836/76f1a4e1-ea9f-45f5-8865-03e49c6f2b9c)
+![image](https://github.com/dimindrol/Replicationscaling.P1-pergunov/assets/103885836/76f1a4e1-ea9f-45f5-8865-03e49c6f2b9c)  
 6.Настраиваем контейнер SLAVE и перезагружаем контейнер  
 ```
 log_bin = mysql-bin  
