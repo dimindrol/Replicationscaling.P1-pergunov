@@ -41,8 +41,5 @@ CHANGE MASTER TO
 ```
 8.Выводим конфигурацию с помощью команды SHOW SLAVE STATUS\G;  
 ![image](https://github.com/dimindrol/Replicationscaling.P1-pergunov/assets/103885836/12a4d6b4-4d5c-4884-a813-d9d5409424d1)  
-....
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
