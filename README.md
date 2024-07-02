@@ -48,7 +48,7 @@ CHANGE MASTER TO
     MASTER_LOG_POS=1540;
 ```
 8.Выводим конфигурацию репликации с помощью команды SHOW SLAVE STATUS\G;  
-Replica ha read all, говорит нам о том, что репликация работает.  
+Replica has read all, говорит нам о том, что репликация работает.  
 ![image](https://github.com/dimindrol/Replicationscaling.P1-pergunov/assets/103885836/12a4d6b4-4d5c-4884-a813-d9d5409424d1)  
 
 
